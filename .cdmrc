@@ -1,2 +1,3 @@
-tabs: ['contracts/Parent.sol']
-terminals: ['yarn install']
+tabs: ["contracts/Parent.sol"]
+terminals: ["bun install"]
+run-button: truffle compile
